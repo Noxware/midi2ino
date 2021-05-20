@@ -1,0 +1,13 @@
+{
+  "name": "midi2ino",
+  "version": "0.0.1",
+  "description": "",
+  "main": "midi2ino.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noxware",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.27"
+  }
+}
